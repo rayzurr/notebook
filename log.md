@@ -1,6 +1,13 @@
 # 2024 Log
 
 ## April
+
+### Mon 15
+- Created Notes Templated in md
+- Completed the first phase of FreeCodeCamp HTML
+- Set realistic and thorough study schedule
+
+
 ### Fri 12
 - Watched and inspired by smoljames
 - Learning to use markdown for note taking
