@@ -86,3 +86,9 @@
 * Use RGBA for digital colors with transparency.
 * Use HSL for easier color adjustments based on human perception.
 * Use HEX for brevity and compatibility with older systems (though transparency isn't possible).
+
+
+item/bubblewrap/box/space between other boxes
+content/padding/div/margin
+
+-  The css style `overflow: hidden` is used to stop overlapping of div elements. When one div is moved the other and the nearby div is not moved.
