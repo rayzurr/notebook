@@ -22,8 +22,7 @@ Here are some links you might find helpful!
 
   - [Chapter 1 - Introduction to HTML](#chapter-1---introduction-to-html)
     - [1.1 Creating an HTML Document](#11-creating-an-html-document)
- (#chapter-2---introduction-to-css)
-    - [2.1 Creating an CSS File](#21-creating-an-css-file)
+
 
 
 ## Chapter 0 - GitHub Desktop
