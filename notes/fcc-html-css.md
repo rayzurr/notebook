@@ -16,6 +16,8 @@ order: N/A
 
 Here are some links you might find helpful!
 
+- [Flex Box](https://flexboxfroggy.com/)
+
 * **GitHub** -> https://www.github.com
 
 ## Table of Contents
@@ -71,8 +73,18 @@ Here are some links you might find helpful!
 - Imagine the Box Model analogy = item/bubblewrap/box/space between other boxes
 content/padding/div/margin
 
+- What is boxing size?
+  - The border-box sizing model does the opposite of content-box. The total width of the element, including padding and border, will be the explicit width set. The content of the element will shrink to make room for the padding and border.
+
+- What is `object-fit:cover` property?
+  Determines how the image behaves i.e enables correct aspect ratio
+
 ### Learn CSS Flexbox by Building a Photo Gallery
+
+- 
 ### Learn Typography by Building a Nutrition Label
+
+-
 ### Learn Accessibility by Building a Quiz (Certification Project)
 ### Tribute Page (Certification Project)
 
