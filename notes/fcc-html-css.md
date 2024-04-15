@@ -1,9 +1,34 @@
-# Notes
+---
+title: "N/A"
+status: "N/A"
+order: N/A
+---
+
+# Main Title
+
+#### The ultimate guide to *RENAME* 
+
+//Insert Summarised Introduction/Description
+
+> *INSERT CALLOUT:)*
+
+## Resources
+
+Here are some links you might find helpful!
+
+* **GitHub** -> https://www.github.com
+
+## Table of Contents
+
+  - [Chapter 1 - Introduction to HTML](#chapter-1---introduction-to-html)
+    - [1.1 Creating an HTML Document](#11-creating-an-html-document)
 
 
-### Color theory
 
-## HTML/CSS Courses: Table of Contents
+## Chapter 1
+ ### Learn HTML by Building a Cat Photo App
+### Learn Basic CSS by Building a Cafe Menu
+### Learn CSS Colors by Building a Set of Colored Markers
 
 **RGBA (Red, Green, Blue, Alpha)**
 
@@ -37,30 +62,32 @@
 * Use HEX for brevity and compatibility with older systems (though transparency isn't possible).
 
 
-item/bubblewrap/box/space between other boxes
-content/padding/div/margin
-
--  The css style `overflow: hidden` is used to stop overlapping of div elements. When one div is moved the other and the nearby div is not moved.
-
-
-
- ### Learn HTML by Building a Cat Photo App
-### Learn Basic CSS by Building a Cafe Menu
-### Learn CSS Colors by Building a Set of Colored Markers
 ### Learn HTML Forms by Building a Registration Form
     * Survey Form (Certification Project)
+
+## Chapter 2
 ### Learn the CSS Box Model by Building a Rothko Painting
+
+- Imagine the Box Model analogy = item/bubblewrap/box/space between other boxes
+content/padding/div/margin
+
 ### Learn CSS Flexbox by Building a Photo Gallery
 ### Learn Typography by Building a Nutrition Label
 ### Learn Accessibility by Building a Quiz (Certification Project)
 ### Tribute Page (Certification Project)
+
+## Chapter 3
 ### Learn More About CSS Pseudo Selectors by Building a Balance Sheet
 ### Learn Intermediate CSS by Building a Cat Painting
 ### Learn Responsive Web Design by Building a Piano
     * Technical Documentation Page (Certification Project)
+
+## Chapter 4
 ### Learn CSS Variables by Building a City Skyline
 ### Learn CSS Grid by Building a Magazine
     * Product Landing Page (Certification Project)
+
+# Chapter 5
 ### Learn CSS Animation by Building a Ferris Wheel
 ### Learn CSS Transforms by Building a Penguin
     * Personal Portfolio Webpage (Certification Project)
