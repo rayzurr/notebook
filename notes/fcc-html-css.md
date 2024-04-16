@@ -90,6 +90,19 @@ content/padding/div/margin
 
 A useful property of an SVG (scalable vector graphics) is that it contains a path attribute which allows the image to be scaled without affecting the resolution of the resultant image.
 
+Currently, the img is assuming its default size, which is too large. CSS has a max function which returns the largest of a set of comma-separated values. For example:
+
+img {
+  width: max(250px, 25vw);
+}
+In this example, img elements will have a minimum width of 250px. And as the viewport grows, the image will grow accordingly to be 25 percent of the viewport width.
+
+- 'role' attribute is used to help screen readers users understand and navigate.
+
+
+- label element and input element are often paired together within when used in forms. Label will have a `for = {name1}` attribute & input will have `id={name1}`. They must have matching 
+
+- Keeping in mind best-practices for form inputs, give each input an appropriate type and name attribute. Then, give the first input a placeholder attribute.
 ### Tribute Page (Certification Project)
 
 ## Chapter 3
