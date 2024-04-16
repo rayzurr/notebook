@@ -81,11 +81,15 @@ content/padding/div/margin
 
 ### Learn CSS Flexbox by Building a Photo Gallery
 
+- Done
 - 
 ### Learn Typography by Building a Nutrition Label
 
--
-### Learn Accessibility by Building a Quiz (Certification Project)
+- Done
+### Learn Accessibility by Building a Quiz 
+
+A useful property of an SVG (scalable vector graphics) is that it contains a path attribute which allows the image to be scaled without affecting the resolution of the resultant image.
+
 ### Tribute Page (Certification Project)
 
 ## Chapter 3
