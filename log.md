@@ -6,6 +6,8 @@
 - Created an introduction for myself
 - Fixed up Linktree to include Github https://www.Linktr.ee/ryseperformance
 - Power outage on Tuesday
+- *OPT allows you selector multiple lines + emmets make it easier to write HTML*
+- Looking into react courses to build web portfolio
 
 
 ### Mon 15
