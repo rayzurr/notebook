@@ -2,6 +2,12 @@
 
 ## April
 
+### Tues 16-18
+- Created an introduction for myself
+- Fixed up Linktree to include Github https://www.Linktr.ee/ryseperformance
+- Power outage on Tuesday
+
+
 ### Mon 15
 - Created Notes Templated in md
 - Completed the first phase of FreeCodeCamp HTML
