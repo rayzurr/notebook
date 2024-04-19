@@ -118,10 +118,32 @@ In this example, img elements will have a minimum width of 250px. And as the vie
 
 - `:first-of-type` pseudo-selector is used to target the first element matches the selector and conversely `:last-of-type`
 
+- The [attribute="value"] selector targets any element that has an attribute with a specific value.
 
+- The key difference between tr[class="total"] and `tr.total` is that the first will select tr elements where the **only** class is total. The second will select tr elements where the class **includes** total.
+
+- Done
 
 ### Learn Intermediate CSS by Building a Cat Painting
+
+
+![Cat Photo Project](<Screenshot 2024-04-19 at 6.51.20 pm.png>)
+
+- `position` property you can set to **static, absolute, relative, sticky or fixed**. Once you set the position property of the element, you can move the element around by setting a pixel or a percentage value for one or more of the top, right, left, or bottom properties.
+
+- `static` is the default positioning for all elements. If you assign it to an element, you won't be able to move it around with top, right, left, or bottom.
+
+
+- `sticky` position property is a mix of relative and fixed positioning
+
+
+*{
+  border: 1px solid red;
+  z-index: -1 !important
+}
 ### Learn Responsive Web Design by Building a Piano
+
+![piano](image.png)
     * Technical Documentation Page (Certification Project)
 
 ## Chapter 4
