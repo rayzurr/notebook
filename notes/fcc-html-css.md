@@ -107,6 +107,19 @@ In this example, img elements will have a minimum width of 250px. And as the vie
 
 ## Chapter 3
 ### Learn More About CSS Pseudo Selectors by Building a Balance Sheet
+
+![Project Image](image.png)
+
+- `Table` element is paired with the child element of `caption`. Caption will indicate what the table is about. 
+
+- `thead` and `tbody` elements are used to indicate which portion of your table is the header, and which portion contains the primary data or content.
+
+- The `tr` element is used to indicate a table row. The `td` element indicates a data cell, while the `th` element indicates a header cell.
+
+- `:first-of-type` pseudo-selector is used to target the first element matches the selector and conversely `:last-of-type`
+
+
+
 ### Learn Intermediate CSS by Building a Cat Painting
 ### Learn Responsive Web Design by Building a Piano
     * Technical Documentation Page (Certification Project)
