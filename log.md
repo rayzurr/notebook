@@ -2,6 +2,10 @@
 
 ## April
 
+## Fri 19
+- Updated Github Profile
+- 2/5 HTML freecode camp completed
+
 ### Tues 16-18
 - Created an introduction for myself
 - Fixed up Linktree to include Github https://www.Linktr.ee/ryseperformance
