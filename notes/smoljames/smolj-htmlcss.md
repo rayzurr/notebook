@@ -24,6 +24,15 @@ Here are some links you might find helpful!
 - Assuming display: flex (becase ut is in a row)
 - The `align-items` property affects elements within the vertical plane
 - The `justify-content` property affects elements within the horizontal plane
+
+
+
+- The `id` property and the value must be unique.
+- CSS Selector hierachy -> ID -> Class -> Parent
+  - However adding the !important; to the css property will give the selector priority.
+
+
+- If you are designing for mobile screen, create mobile view **first**
 ## Ch.4 Deploy your code to the internet
 
 ## Ch.5 Special Announcement
