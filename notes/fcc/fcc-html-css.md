@@ -146,8 +146,12 @@ In this example, img elements will have a minimum width of 250px. And as the vie
 ![piano](image.png)
     * Technical Documentation Page (Certification Project)
 
+- `boxing sizing : inherit` which will tell the targeted elements to use the same value as the parent element.
+
+-`@media at-rule`, media query, is used to conditionally apply CSS. Media queries are commonly used to apply CSS based on the viewport width using the max-width and min-width properties. 
+
 ## Chapter 4
-### Learn CSS Variables by Building a City Skyline
+### Learn CSS Variables by Building a `City Skyline
 ### Learn CSS Grid by Building a Magazine
     * Product Landing Page (Certification Project)
 
