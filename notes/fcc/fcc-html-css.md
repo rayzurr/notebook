@@ -173,6 +173,11 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 ### Learn CSS Grid by Building a Magazine
     * Product Landing Page (Certification Project)
 
+![magazine1a
+](4-fcc-magazine-1.png)
+
+![magazine1b
+](4-fcc-magazine-1a.png)
 # Chapter 5
 ### Learn CSS Animation by Building a Ferris Wheel
 ### Learn CSS Transforms by Building a Penguin
