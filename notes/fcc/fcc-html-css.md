@@ -178,6 +178,8 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 
 ![magazine1b
 ](4-fcc-magazine-1a.png)
+
+- `rel: referrer` is used to track analytics on people who click on a tag link. Conversely `noreferrer` 
 # Chapter 5
 ### Learn CSS Animation by Building a Ferris Wheel
 ### Learn CSS Transforms by Building a Penguin
