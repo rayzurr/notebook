@@ -161,7 +161,15 @@ In this example, img elements will have a minimum width of 250px. And as the vie
 
 - ![Building CSS](<Screenshot 2024-04-21 at 2.57.26 pm.png>)
 
-- 
+- Variables are created in CSS using `--variable--`
+
+To use a variable, var and parenthese `var(--variable-name)`. ie
+`background-color: var(var(--variable-name)`
+
+- `var(--variable-name, fallback-value)`
+ incase there issue it will use the fallback value
+
+- Done
 ### Learn CSS Grid by Building a Magazine
     * Product Landing Page (Certification Project)
 
