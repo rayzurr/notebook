@@ -180,6 +180,21 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 ](4-fcc-magazine-1a.png)
 
 - `rel: referrer` is used to track analytics on people who click on a tag link. Conversely `noreferrer` 
+
+- Gridbox layout of a chessboard. Each tile is a grid.
+
+- `display: flex` & `grid-template-columns: ` are the properties to use grid;
+
+- grip template can use `minmax` as a arguement. This determines the min and max width size of grid.
+
+-  `row-gap` property add spaces to the rows
+
+- `grip column` is a sub-property of `grid-template-columns: ` and applies to the child elements of the main property. 
+
+- grid-column property, which is shorthand for grid-column-start and grid-column-end tells the grid item which grid line to start and end at.
+
+
+
 # Chapter 5
 ### Learn CSS Animation by Building a Ferris Wheel
 ### Learn CSS Transforms by Building a Penguin
