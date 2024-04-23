@@ -191,8 +191,18 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 
 - `grip column` is a sub-property of `grid-template-columns: ` and applies to the child elements of the main property. 
 
+- What if you wanted to add more columns with disrupting your grid?
+  1. Addition columns
+  2. Use `grid-auto-flow`
+
+
+- `grid-auto-flow` takes either row or column as the 1st arg, with an optional 2nd arg of `dense`. This property will auto fill the spaces The `dense` value allows the algorithm to backtrack and fill holes in the grid with smaller items, which can result in items appearing out of order.
+
 - grid-column property, which is shorthand for grid-column-start and grid-column-end tells the grid item which grid line to start and end at.
 
+- `hero` is the superman of the page
+
+- The `object-fit` property tells the browser how to position the element within its container. In this case, cover will set the image to fill the container, cropping as needed to avoid changing the aspect ratio.
 
 
 # Chapter 5
