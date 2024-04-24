@@ -1,6 +1,8 @@
 # 2024 Log
 
-## April
+## April 24
+- 3/5 HTML freecode camp completed
+- learn how to make nav-bar always at the top of the viewport. Check fcc-productpage notes
 
 ## Fri 19
 - Updated Github Profile
