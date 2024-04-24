@@ -233,7 +233,10 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 5. **Repetitions**: Control how many times the animation repeats with `animation-iteration-count`. Set it to a number or "infinite" for continuous animation (e.g., `.wheel { animation-iteration-count: infinite }`).
 6. **Timing**: Set `animation-timing-function` to control animation speed over time. Use "linear" for a constant speed (e.g., `.wheel { animation-timing-function: linear }`).
 
+- the short `animation: cabins 10s ease-in-out infinite`;
 
+
+- done
 
 ### Learn CSS Transforms by Building a Penguin
     * Personal Portfolio Webpage (Certification Project)
