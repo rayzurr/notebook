@@ -224,6 +224,14 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 
 - `transform-origin` property is used to set the point around which a CSS transformation is 
 
+## CSS Animation for Ferris Wheel: Key Points
+
+1. **@keyframes**: Defines animation flow. You can specify points in the animation (0%, 25%) or use "from" and "to" for start and end. 
+2. **Naming**: Assign a name to your @keyframes rule (e.g., "wheel"). 
+3. **Linking**: Use `animation-name` property to connect the @keyframes rule with a CSS selector (e.g., `.wheel`). Set the value to the name you assigned (e.g., `animation-name: wheel`).
+4. **Duration**: Set `animation-duration` to control how long the animation takes (e.g., `.wheel { animation-duration: 10s }`). Use seconds (s) or milliseconds (ms).
+5. **Repetitions**: Control how many times the animation repeats with `animation-iteration-count`. Set it to a number or "infinite" for continuous animation (e.g., `.wheel { animation-iteration-count: infinite }`).
+6. **Timing**: Set `animation-timing-function` to control animation speed over time. Use "linear" for a constant speed (e.g., `.wheel { animation-timing-function: linear }`).
 
 
 
