@@ -204,6 +204,17 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 
 - The `object-fit` property tells the browser how to position the element within its container. In this case, cover will set the image to fill the container, cropping as needed to avoid changing the aspect ratio.
 
+
+
+- How do you make your #nav-bar always be at the top of the viewport?
+  - #nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+  }
+
 - done
 
 # Chapter 5
