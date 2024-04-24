@@ -204,6 +204,7 @@ To use a variable, var and parenthese `var(--variable-name)`. ie
 
 - The `object-fit` property tells the browser how to position the element within its container. In this case, cover will set the image to fill the container, cropping as needed to avoid changing the aspect ratio.
 
+- done
 
 # Chapter 5
 ### Learn CSS Animation by Building a Ferris Wheel
