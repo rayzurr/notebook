@@ -1,5 +1,10 @@
 # 2024 Log
 
+
+## April 25
+- I am working on the final HTML part
+- Confidence is getting better
+
 ## April 24
 - 3/5 HTML freecode camp completed
 - learn how to make nav-bar always at the top of the viewport. Check fcc-productpage notes
