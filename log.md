@@ -1,4 +1,7 @@
 # 2024 Log
+## April 25
+- Almost done tribute page
+- Done tribute page
 
 
 ## April 25
