@@ -4,6 +4,7 @@
 - Done tribute page
 - finished 5 penguin
 - Finishing off 3 quiz
+- 4/5 completed
 
 ## April 25
 - I am working on the final HTML part
