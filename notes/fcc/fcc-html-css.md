@@ -103,6 +103,21 @@ In this example, img elements will have a minimum width of 250px. And as the vie
 - label element and input element are often paired together within when used in forms. Label will have a `for = {name1}` attribute & input will have `id={name1}`. They must have matching 
 
 - Keeping in mind best-practices for form inputs, give each input an appropriate type and name attribute. Then, give the first input a placeholder attribute.
+
+- Contrast Ratio: Measures the difference in brightness between colors (text vs. background).
+Importance: Higher contrast (e.g., 7:1) improves readability, especially for those with visual impairments.
+How to Use:
+Find the background color of your list elements.
+
+Use a contrast checker tool (like WebAIM Contrast Checker: https://webaim.org/resources/contrastchecker/) 
+
+to pick a new anchor color with a contrast ratio of at least 7:1 compared to the background.
+
+Update your CSS or HTML to apply the new color to all anchor elements within the list elements.
+
+??
+
+- completed, **DEFININTELY SHOULD REVISIT**
 ### Tribute Page (Certification Project)
 
 ## Chapter 3
