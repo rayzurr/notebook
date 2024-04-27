@@ -1,4 +1,9 @@
 # 2024 Log
+
+## April 26
+- completed FCC HTML Course
+- Added to LinkedIn
+
 ## April 26
 - Almost done tribute page
 - Done tribute page
