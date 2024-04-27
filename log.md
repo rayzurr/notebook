@@ -2,7 +2,9 @@
 
 ## April 26
 - completed FCC HTML Course
-- Added to LinkedIn
+- Added Cert onto LinkedIn
+- Reviewing RoadMap
+- Move to React or revisit Javascript? Maybe Both?
 
 ## April 26
 - Almost done tribute page
