@@ -1,7 +1,7 @@
 ---
-title: "N/A"
-status: "N/A"
-order: N/A
+title: "NA"
+status: "NA"
+order: NA
 ---
 
 # Main Title
