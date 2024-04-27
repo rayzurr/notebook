@@ -1,10 +1,14 @@
 # 2024 Log
 
+# Sun 27
+- Start polishing up resume/cv process
+
 ## April 26
 - completed FCC HTML Course
 - Added Cert onto LinkedIn
 - Reviewing RoadMap
 - Move to React or revisit Javascript? Maybe Both?
+
 
 ## April 26
 - Almost done tribute page
