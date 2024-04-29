@@ -1,7 +1,7 @@
 # 2024 Log
 
 # Mon 29
-- **Booked a coaching session**
+- ~~Booked a coaching session~~
 - 
 
 # Sun 27
