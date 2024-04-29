@@ -1,7 +1,12 @@
 # 2024 Log
 
+# Mon 29
+- **Booked a coaching session**
+- 
+
 # Sun 27
 - Start polishing up resume/cv process
+- Doing a fast javascript while editing video
 
 ## April 26
 - completed FCC HTML Course
