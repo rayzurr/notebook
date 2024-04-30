@@ -1,8 +1,9 @@
 # 2024 Log
 
 ### Tues 30th
-- Working on mobile web portfolio
-- Deploying django project
+- ~~Working on mobile web portfolio~~
+- ~~Deploying django project~~
+- ~~Finished mobile web portfolio~~
 
 ## Mon 29
 - ~~Booked a coaching session~~
