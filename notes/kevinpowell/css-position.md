@@ -22,6 +22,8 @@ Here are some links you might find helpful!
 ## 00:00 - Introduction
 ## 01:10 - What we are starting with
 ## 01:40 - position: static
+
+- This is the default value
 ## 05:50 - position: absolute
 ## 13:47 - position: fixed
 ## 18:40 - position: sticky
