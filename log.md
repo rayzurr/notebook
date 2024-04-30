@@ -1,11 +1,14 @@
 # 2024 Log
 
-# Mon 29
-- ~Booked a coaching session~
+### Tues 30th
+- Working on mobile web portfolio
+- Deploying django project
+
+## Mon 29
 - ~~Booked a coaching session~~
 
 
-# Sun 27
+## Sun 27
 - Start polishing up resume/cv process
 - Doing a fast javascript while editing video
 
