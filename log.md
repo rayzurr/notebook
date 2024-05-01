@@ -1,5 +1,11 @@
 # 2024 Log
 
+## May
+
+### Thursday 2th
+- Adapted the web portfolio, added different color scheme and hover effect on projects
+- Scheduling a meeting
+
 ### Tues 30th
 - ~~Working on mobile web portfolio~~
 - ~~Deploying django project~~
