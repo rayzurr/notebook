@@ -2,6 +2,11 @@ absolutely, here is a markdown summary of Learning How to Learn by Barbara Oakle
 
 ## Learning How to Learn by Barbara Oakley
 
+### Action Items
+- Tests are the best and homework 
+- Flashcards are your friend
+- Recall is the best way of learning
+- Explain to a 10 year old
 ### The Core Idea
 
 Our brains are capable of so much more than we realize. The key to unlocking this potential is to learn how to learn effectively. This book provides research-based strategies to help you master any subject, regardless of your background or perceived limitations.
