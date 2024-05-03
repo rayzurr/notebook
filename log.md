@@ -1,5 +1,9 @@
 # 2024 Log
 
+## May 04
+- Revisited git flow, everything went smoothly. Git fetch and pull
+- 1hr free code camp 
+
 ## May 03
 - Distracted by car crash
 - Trying to get 1hr of freecodecamp
