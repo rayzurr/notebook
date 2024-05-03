@@ -1,6 +1,13 @@
 # 2024 Log
 
-## May
+## May 03
+- Distracted by car crash
+- Trying to get 1hr of freecodecamp
+
+## May 02
+- Continue on to react.js
+- Go back over javascript basics with good notes. I must be able to effectively explain each topic as if I was explaining to a 7 year old.
+- Go back to basics on learning how to learn. 
 
 ### Thursday 2th
 - Adapted the web portfolio, added different color scheme and hover effect on projects
