@@ -28,7 +28,7 @@ Here are some links you might find helpful!
   - [Chapter 6 - Basic Algorithm Scripting](#Basic-Algorithm-Scripting)
   - [Chapter 7 - Object Oriented Programming](#Object-Oriented-Programming)
   - [Chapter 8 - Functional Programming](#Functional-Programming)
-  - [Chapter 8 - Intermediate Algorithm Scripting](#Intermediate-Algorithm-Scripting)
+  - [Chapter 9 - Intermediate Algorithm Scripting](#Intermediate-Algorithm-Scripting)
   
 
 
@@ -61,12 +61,12 @@ In this course, you'll learn how to use the JavaScript console to debug programs
 In this Basic Data Structures course, you'll learn more about the differences between arrays and objects, and which to use in different situations. You'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
 
 
-## Basic-Algorithm Scripting
+## Basic-Algorithm-Scripting
 > An algorithm is a series of step-by-step instructions that describe how to do something.To write an effective algorithm, it helps to break a problem down into smaller parts and think carefully about how to solve each part with code.
 
 In this course, you'll learn the fundamentals of algorithmic thinking by writing algorithms that do everything from converting temperatures to handling complex 2D arrays.
 
-## Object Oriented-Programming
+## Object-Oriented-Programming
 > OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, objects and classes organize code to describe things and what they can do.
 
 In this course, you'll learn the basic principles of OOP in JavaScript, including the this keyword, prototype chains, constructors, and inheritance.
