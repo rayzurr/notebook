@@ -24,6 +24,14 @@ Here are some links you might find helpful!
 
 ### Learn Introductory JavaScript by Building a Pyramid Generator
 ### Learn Basic JavaScript by Building a Role Playing Game
+
+- What is console.log()
+  - 'console' is the object family, '.log()' is a method.
+  - It is method that allows your to print out to the console.
+  - It is apart of the console family and is very useful for debugging your code, inspecting variables and commonly used by all developers.
+
+- Define Let, Var, Const.
+
 ### Learn Form Validation by Building a Calorie Counter
 ### Learn Basic String and Array Methods by Building a Music Player
 ### Learn the Date Object by Building a Date Formatter
@@ -37,7 +45,7 @@ Here are some links you might find helpful!
 ### Learn Recursion by Building a Decimal to Binary Converter
 ### Build a Roman Numeral Converter ProjectCertification Project
 
-## Chapter3
+## Chapter 3
 
 ### Learn Regular Expressions by Building a Spam Filter
 ### Learn Basic Algorithmic Thinking by Building a Number Sorter
