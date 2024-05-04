@@ -4,19 +4,16 @@ status: "NA"
 order: NA
 ---
 
-# Main Title
+# Legacy JavaScript Algorithms and Data Structures
 
-#### The ultimate guide to *RENAME* 
-
-//Insert Summarised Introduction/Description
-
-> *INSERT CALLOUT:)*
+#### The ultimate guide to *FCC Legacy JavaScript Algorithms and Data Structures* 
 
 ## Resources
 
 Here are some links you might find helpful!
 
-* **GitHub** -> https://www.github.com
+* **Free Code Camp** -> https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+* **youtube paylist** -> https://www.youtube.com/watch?v=36Evo9c8gfU&list=PL82C6-O4XrHeQQPw8J8-f2XHuXsuMFc-T
 
 ## Table of Contents
 
