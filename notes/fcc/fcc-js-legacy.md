@@ -13,7 +13,7 @@ order: NA
 Here are some links you might find helpful!
 
 * **Free Code Camp** -> https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-* **youtube paylist** -> https://www.youtube.com/watch?v=36Evo9c8gfU&list=PL82C6-O4XrHeQQPw8J8-f2XHuXsuMFc-T
+* **Teddy Smith Javascript Course** -> https://www.youtube.com/watch?v=36Evo9c8gfU&list=PL82C6-O4XrHeQQPw8J8-f2XHuXsuMFc-T
 
 ## Table of Contents
 
