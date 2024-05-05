@@ -1,7 +1,10 @@
 # 2024 Log
 
+## May 06
+- Attend coaching consultation
+
 ## May 05
-- Agenda Notes for James
+- Agenda Notes for coaching session
 - Rest day 
 
 ## May 04
