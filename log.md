@@ -1,5 +1,9 @@
 # 2024 Log
 
+## May 05
+- Agenda Notes for James
+- Rest day 
+
 ## May 04
 - Revisited git flow, everything went smoothly. Git fetch and pull
 - 1hr free code camp 
