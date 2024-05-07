@@ -1,7 +1,15 @@
 # 2024 Log
 
+## May 07
+- Car crash insurance dealt with
+
+
 ## May 06
-- Attend coaching consultation
+- ~~Attend coaching consultation~~
+- Study React.JS tutorial & 4 Projects
+- Revising my javascript fundaments with Teddy Smith tutorials
+- Planning out my 'SSG' notes template
+
 
 ## May 05
 - Agenda Notes for coaching session
