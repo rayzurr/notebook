@@ -1,38 +1,45 @@
 # 2024 Log
 
-## May 08
+### Thu 09
+- Continue personalised Destructing JavaScript Notes
+- Revise To-Do React.JS project
+- Plan new weekly training schedule
+
+### 08
 - Revisit starting notes on React.JS
 - Start To-Do React.JS project
 - Plan new weekly training schedule
 - Organise Calendar
 
-## May 07
+### 07
 - Car crash insurance dealt with
 
 
-## May 06
+### 06
 - ~~Attend coaching consultation~~
 - Study React.JS tutorial & 4 Projects
 - Revising my javascript fundaments with Teddy Smith tutorials
 - Planning out my 'SSG' notes template
 
 
-## May 05
+### 05
 - Agenda Notes for coaching session
 - Rest day 
 
-## May 04
+### 04
 - Revisited git flow, everything went smoothly. Git fetch and pull
 - 1hr free code camp 
 
-## May 03
+### 03
 - Distracted by car crash
 - Trying to get 1hr of freecodecamp
 
-## May 02
+### 02
 - Continue on to react.js
 - Go back over javascript basics with good notes. I must be able to effectively explain each topic as if I was explaining to a 7 year old.
 - Go back to basics on learning how to learn. 
+
+## May
 
 ### Thursday 2th
 - Adapted the web portfolio, added different color scheme and hover effect on projects
