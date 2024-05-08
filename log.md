@@ -1,5 +1,11 @@
 # 2024 Log
 
+## May 08
+- Revisit starting notes on React.JS
+- Start To-Do React.JS project
+- Plan new weekly training schedule
+- Organise Calendar
+
 ## May 07
 - Car crash insurance dealt with
 
