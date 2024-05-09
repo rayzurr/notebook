@@ -135,13 +135,12 @@ Imagine getting food from the fridge.
 
 An inexperience human would grab a item close the fridge door and put it onto your plate/array and repeat until you have all your items. This can be bothersome and inefficient.
 
-An experienced human would have a list prepared. Then grabw all the items corresponding to the list and place it on the plate/array. This can be more efficient and there's less prone for forgetting an item.
+An experienced human would have a list prepared. Then grab all the items corresponding to the list and place it on the plate/array. This can be more efficient and there's less prone for forgetting an item.
  )*
 
 This is one way of picking individual items from an array.
 
 >const refrigerator = [ 'chicken breast', 'broccoli", 'potato' ];
-
 const chickenBreast = refrigerator[0];
 const broccoli = refrigerator[1];)
 
@@ -150,7 +149,6 @@ const broccoli = refrigerator[1];)
 However with *Array Destructing* 
 
 > const [chickenBreast, broccoli] = refrigator;
-
 Console.log(chickenBreast, broccoli) = chickenBreast + broccoli;)
 
 - It looks more condensed.
