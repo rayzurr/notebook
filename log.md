@@ -1,8 +1,16 @@
 # 2024 Log
 
+### Fri 10
+- Return M1 Pro
+- Revise Destructing & Chapter 1 JavaScript Notes
+- Start Array notes
+- Revise To-Do React.JS project
+    - up to 31:06. Do video
+
 ### Thu 09
 - Continue personalised Destructing JavaScript Notes
 - Revise To-Do React.JS project
+    - up to 31:06. Do video
 - Plan new weekly training schedule
 
 ### 08
