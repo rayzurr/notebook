@@ -1,5 +1,13 @@
 # 2024 Log
 
+### Sun 12
+- Revise Destructing & Chapter 1 JavaScript Notes
+- Start Array notes
+- Revise To-Do React.JS project
+- Decide on Airpods Pro
+- Finish Reed's Compilation
+- Edit newington athletics
+
 ### Fri 10
 - Return M1 Pro
 - Revise Destructing & Chapter 1 JavaScript Notes
