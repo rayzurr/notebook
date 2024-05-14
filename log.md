@@ -1,5 +1,10 @@
 # 2024 Log
 
+### Wed 14
+- Finish To-Do React.JS project
+- Revise notes for To-Do React.JS project
+- Continue Array and Object FFC
+
 ### Mon 13
 - Revise Destructing & Chapter 1 JavaScript Notes
 - Start Array notes
