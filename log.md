@@ -1,8 +1,14 @@
 # 2024 Log
 
+### Thur 15
+- Finish To-Do React.JS project
+- Complete notes To-Do React.JS project & Summarise if time
+- Start Object Notes
+- Continue Object FFC (low priority)
+
 ### Wed 14
 - Finish To-Do React.JS project
-- Revise notes for To-Do React.JS project
+- Revise notes To-Do React.JS project
 - Continue Array and Object FFC
 
 ### Mon 13
