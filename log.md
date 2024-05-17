@@ -1,7 +1,12 @@
 # 2024 Log
 
 ### Thur 15
-- Finish To-Do React.JS project
+- Complete notes To-Do React.JS project & Summarise if time
+- Start Object Notes
+- Continue array FFC (low priority)
+
+### Thur 15
+- ~~Finish To-Do React.JS project~~
 - Complete notes To-Do React.JS project & Summarise if time
 - Start Object Notes
 - Continue array FFC (low priority)
