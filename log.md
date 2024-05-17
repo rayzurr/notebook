@@ -1,23 +1,34 @@
 # 2024 Log
 
-### Thur 15
-- Complete notes To-Do React.JS project & Summarise if time
-- Start Object Notes
-- Continue array FFC (low priority)
 
-### Thur 15
+
+### Sun 19
+- Add my own TLDR to notes.
+- Continue Object Music Player FFC
+- Revise JS notes
+- Complete Notes To-Do React.JS project & Summarise
+- Start Other JS topic Notes
+
+### Sat 18
+- Continue Object Music Player FFC
+- Revise JS notes
+- Complete Notes To-Do React.JS project & Summarise
+- Start Other JS topic Notes
+
+
+### Fri 17
 - ~~Finish To-Do React.JS project~~
 - Complete notes To-Do React.JS project & Summarise if time
 - Start Object Notes
 - Continue array FFC (low priority)
 
-### Thur 15
+### Thur 16
 - Finish To-Do React.JS project
 - Complete notes To-Do React.JS project & Summarise if time
 - Start Object Notes
 - Continue array FFC (low priority)
 
-### Wed 14
+### Wed 15
 - Finish To-Do React.JS project
 - Revise notes To-Do React.JS project
 - Continue Array and Object FFC
