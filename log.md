@@ -4,7 +4,13 @@
 - Finish To-Do React.JS project
 - Complete notes To-Do React.JS project & Summarise if time
 - Start Object Notes
-- Continue Object FFC (low priority)
+- Continue array FFC (low priority)
+
+### Thur 15
+- Finish To-Do React.JS project
+- Complete notes To-Do React.JS project & Summarise if time
+- Start Object Notes
+- Continue array FFC (low priority)
 
 ### Wed 14
 - Finish To-Do React.JS project
