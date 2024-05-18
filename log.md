@@ -1,12 +1,11 @@
 # 2024 Log
 
 
-
 ### Sun 19
 - Add my own TLDR to notes.
 - Continue Object Music Player FFC
 - Revise JS notes
-- Complete Notes To-Do React.JS project & Summarise
+- Speed run Todo React.JS
 - Start Other JS topic Notes
 
 ### Sat 18
