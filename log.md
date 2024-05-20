@@ -1,5 +1,14 @@
 # 2024 Log
 
+### Tues 21
+- Re-read JS notes + Add my own TLDR to notes.
+- Complete Object Music Player FFC
+- Complete 2nd run Todo React.JS
+
+### Mon 20
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish Object Music Player FFC
+- Complete 2nd run Todo React.JS
 
 ### Sun 19
 - Add my own TLDR to notes.
