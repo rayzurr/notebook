@@ -1,5 +1,11 @@
 # 2024 Log
 
+### Wed 21
+- Complete 2nd run Todo React.JS
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish FFC
+- ~~Complete Object Music Player FFC~~
+
 ### Tues 21
 - Re-read JS notes + Add my own TLDR to notes.
 - Complete Object Music Player FFC
