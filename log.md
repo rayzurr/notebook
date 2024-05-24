@@ -1,5 +1,11 @@
 # 2024 Log
 
+### Thu 21
+- Complete 2nd run Todo React.JS
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish FFC
+- ~~Completed 2 projects ffc~~
+
 ### Wed 21
 - Complete 2nd run Todo React.JS
 - Re-read JS notes + Add my own TLDR to notes.
