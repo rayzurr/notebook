@@ -1,5 +1,64 @@
 # 2024 Log
 
+### Fri 22
+- Create speedrun of Todo
+- Complete 2nd run Todo React.JS
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish FFC
+
+### Thu 21
+- Complete 2nd run Todo React.JS
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish FFC
+- ~~Completed 2 projects ffc~~
+
+### Wed 21
+- Complete 2nd run Todo React.JS
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish FFC
+- ~~Complete Object Music Player FFC~~
+
+### Tues 21
+- Re-read JS notes + Add my own TLDR to notes.
+- Complete Object Music Player FFC
+- Complete 2nd run Todo React.JS
+
+### Mon 20
+- Re-read JS notes + Add my own TLDR to notes.
+- Finish Object Music Player FFC
+- Complete 2nd run Todo React.JS
+
+### Sun 19
+- Add my own TLDR to notes.
+- Continue Object Music Player FFC
+- Revise JS notes
+- Speed run Todo React.JS
+- Start Other JS topic Notes
+
+### Sat 18
+- Continue Object Music Player FFC
+- Revise JS notes
+- Complete Notes To-Do React.JS project & Summarise
+- Start Other JS topic Notes
+
+
+### Fri 17
+- ~~Finish To-Do React.JS project~~
+- Complete notes To-Do React.JS project & Summarise if time
+- Start Object Notes
+- Continue array FFC (low priority)
+
+### Thur 16
+- Finish To-Do React.JS project
+- Complete notes To-Do React.JS project & Summarise if time
+- Start Object Notes
+- Continue array FFC (low priority)
+
+### Wed 15
+- Finish To-Do React.JS project
+- Revise notes To-Do React.JS project
+- Continue Array and Object FFC
+
 ### Mon 13
 - Revise Destructing & Chapter 1 JavaScript Notes
 - Start Array notes
