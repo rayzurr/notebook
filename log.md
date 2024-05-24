@@ -13,9 +13,10 @@
 - Revise Destructing & Chapter 1 JavaScript Notes
 - Start Array notes
 - Revise To-Do React.JS project
-- Decide on Airpods Pro
-- Finish Reed's Compilation
-- Edit newington athletics
+- ~~Decide on Airpods Pro~~
+- ~~Finish Reed's Compilation~~
+- Edit newington athleticsout
+sa
 
 ### Fri 10
 - Return M1 Pro
