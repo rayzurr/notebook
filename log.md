@@ -1,14 +1,5 @@
 # 2024 Log
 
-<<<<<<< HEAD
-=======
-### Fri 22
-- Create speedrun of Todo
-- Complete 2nd run Todo React.JS
-- Re-read JS notes + Add my own TLDR to notes.
-- Finish FFC
-
->>>>>>> refs/remotes/origin/main
 ### Thu 21
 - Complete 2nd run Todo React.JS
 - Re-read JS notes + Add my own TLDR to notes.
