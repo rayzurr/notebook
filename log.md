@@ -1,18 +1,25 @@
 # 2024 Log
 
-### Fri 22
+### Sat 25
+- Clone and make seperate file for Todo App practice
+- Rewrite speedrun of Todo notes
+- Re-read JS notes + Add my own TLDR to notes.
+- Find relevant FFC course (fill gaps of knowledge)
+- Edit Newington Video
+
+### Fri 24
 - Create speedrun of Todo
 - Complete 2nd run Todo React.JS
 - Re-read JS notes + Add my own TLDR to notes.
 - Finish FFC
 
-### Thu 21
+### Thu 23
 - Complete 2nd run Todo React.JS
 - Re-read JS notes + Add my own TLDR to notes.
 - Finish FFC
 - ~~Completed 2 projects ffc~~
 
-### Wed 21
+### Wed 22
 - Complete 2nd run Todo React.JS
 - Re-read JS notes + Add my own TLDR to notes.
 - Finish FFC
