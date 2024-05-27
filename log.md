@@ -1,9 +1,15 @@
 # 2024 Log
 
+### Mon 25
+- Edit Newington Video
+- Clone and make seperate file for Todo App practice
+- Rewrite speedrun of Todo notes
+- Start Learn localStorage by Building a Todo App
+
 ### Sun 25
 - Clone and make seperate file for Todo App practice
 - Rewrite speedrun of Todo notes
-- Finish Learn Modern JavaScript Methods by Building Football Team Cards
+- ~Finish Learn Modern JavaScript Methods by Building Football Team Cards~
 - Edit Newington Video
 
 ### Sat 25
