@@ -1,5 +1,8 @@
 # 2024 Log
 
+### Tues 26
+- Finish Editing Newington Video
+
 ### Mon 25
 - Edit Newington Video
 - Clone and make seperate file for Todo App practice
