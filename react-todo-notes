@@ -1,0 +1,40 @@
+Create RFC for Parent & Children Components
+
+Add import statements in the App component. RFCe 
+
+React fragments -> Children compononent 
+
+TodoList - Within ul -> Create Todos array & map Todos and return -> li w/key prop -> p w/ Todo
+
+TodoInput - Create header and add input and button
+
+TodoList - Within ul.main -> Create Todos array & map Todos and return -> li.todoItem w/key prop -> p with Todo
+
+TodoCard - RFC, Create li.todoItem -> div.actionsContainer  -> i*2
+
+    <i className="fa-solid fa-pen-to-square"></i>
+    <i className="fa-regular fa-trash-can"></
+
+TodoList - Add TodoCard fc within the return statement and pass as a prop to TodoCard
+
+TodoCard -  Pass props into arg and deconstruct todos array.
+
+App - Put todo array in App so that both children TodoCard & List can use/inherit array. Add prop to the TodoList component
+
+App - Create state variable and within useState hook add in the Todos array
+
+// Add Todos
+
+App - handleAddTodos for adding Todos. ...todos and newTodo, storage into newTodoList as an array. Call setTodo and newTodolist as arg. Add prop handleAddTodos to TodoInput
+
+
+TodoInput - Pass prop as arg. Destructure handleAddTodo and to button when clicked. Create todoValue state variable and store empty string in useState, add it as a prop to input when changed*. e.target.value
+
+// Delete Todos
+
+App -filter todos, add todo and todoIndex within callback function. return todoIndex !== index. Pass as prop to todoCard.
+
+Call setTodo function to update newTodoList
+
+todoCard - destructure handleDelete function 
+// Update Todos

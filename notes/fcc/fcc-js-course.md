@@ -32,6 +32,13 @@ Here are some links you might find helpful!
 
 - Define Let, Var, Const.
 
+- What is an array? 
+  - An array is and holds a collection of items within '[]'. These items can be be anything ranging from strings to objects;
+
+An array is a non-primitive data type that can hold a series of values. Non-primitive data types differ from primitive data types in that they can hold more complex data. Primitive data types like strings and numbers can only hold one value at a time.
+
+Arrays are denoted using square brackets ([]). Here is an example of a variable with the value of an empty array:
+
 ### Learn Form Validation by Building a Calorie Counter
 ### Learn Basic String and Array Methods by Building a Music Player
 ### Learn the Date Object by Building a Date Formatter
