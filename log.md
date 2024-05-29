@@ -1,15 +1,24 @@
 # 2024 Log
 
-### Tues 26
-- Finish Editing Newington Video
+### Thu 30
+- Quick audio fix for Newington video
+- Rewrite speedrun of Todo notes
+- Clone and make seperate file for Todo App practice
+- Start Learn localStorage by Building a Todo App
 
-### Mon 25
+### Wed 29
+- *Finish Editing Newington Draft Video*
+
+### Tues 28
+- Finish Editing Newington Draft Video
+
+### Mon 27
 - Edit Newington Video
 - Clone and make seperate file for Todo App practice
 - Rewrite speedrun of Todo notes
 - Start Learn localStorage by Building a Todo App
 
-### Sun 25
+### Sun 26
 - Clone and make seperate file for Todo App practice
 - Rewrite speedrun of Todo notes
 - ~Finish Learn Modern JavaScript Methods by Building Football Team Cards~
