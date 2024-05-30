@@ -47,7 +47,7 @@
 - Complete 2nd run Todo React.JS
 - Re-read JS notes + Add my own TLDR to notes.
 - Finish FFC
-- ~~Complete Object Music Player FFC~~
+- ~~Comp`lete Object Music Player FFC~~
 
 ### Tues 21
 - Re-read JS notes + Add my own TLDR to notes.
