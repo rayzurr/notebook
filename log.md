@@ -2,8 +2,8 @@
 
 ### Thu 30
 - Quick audio fix for Newington video
-- Rewrite speedrun of Todo notes
-- Clone and make seperate file for Todo App practice
+- ~Rewrite speedrun of Todo notes~
+- ~Clone and make seperate file for Todo App practice~
 - Start Learn localStorage by Building a Todo App
 
 ### Wed 29
