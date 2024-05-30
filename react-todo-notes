@@ -28,13 +28,36 @@ App - Create state variable and within useState hook add in the Todos array
 App - handleAddTodos for adding Todos. ...todos and newTodo, storage into newTodoList as an array. Call setTodo and newTodolist as arg. Add prop handleAddTodos to TodoInput
 
 
-TodoInput - Pass prop as arg. Destructure handleAddTodo and to button when clicked. Create todoValue state variable and store empty string in useState, add it as a prop to input when changed*. e.target.value
+TodoInput - Pass prop as arg. Destructure handleAddTodo and to button when clicked and add setTodoValue('') (which reverts input to empty string and updates the state of the page). 
+
+Create todoValue state variable and store empty string in useState, add it as a prop to input when changed*. e.target.value
 
 // Delete Todos
 
-App -filter todos, add todo and todoIndex within callback function. return todoIndex !== index. Pass as prop to todoCard.
+App -filter todos, add todo and todoIndex within callback function. return todoIndex !== index. Pass as prop todoList.
 
 Call setTodo function to update newTodoList
 
-todoCard - destructure handleDelete function 
+todoList - spread props and add as a prop within todoCard component. Link a1
+
+todoCard - deconstruct handleDeleteTodo and add button i elements. Add onclick to button and pass handleDeleteTodo as arrow function
+
+todoList - add index = {todoIndex} prop to todoCard Comp
+
+todoCard - deconstruct index prop and add to variable
+
+
+App - From TodoInput, bring todoValue state variable to App. Add and pass setTodoValue prop to todoInput.
+
+TodoInput - Deconstruct and add todoValue & setTodoValue to const
+
 // Update Todos
+
+
+App - create handleEditfunction app. pass (index). Store todos[Index] to variable. Call setTodoValue and pass in variable. Call handleDeleteTodo and pass in index.
+
+Add handleEditfunction prop to todoList
+
+TodoCard - Deconstruct and add handleEditfunction prop. Add onclick handleEditfunction to edit button.
+
+//Persist Local Storage
