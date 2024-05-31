@@ -1,5 +1,9 @@
 # 2024 Log
 
+### Fri 30
+- Complete 1 run of TodoApp
+- Quick audio fix for Newington video
+- Start Learn localStorage by Building a Todo App
 ### Thu 30
 - Quick audio fix for Newington video
 - ~Rewrite speedrun of Todo notes~
