@@ -2,7 +2,7 @@
 
 ## June
 ### Mon 01
-- ~~Finished Newington Video of the Year~~
+- ~~Finished Newington Video for the Year~~
 - Complete 1 run of TodoApp
 - Start Learn localStorage by Building a Todo App
 
