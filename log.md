@@ -1,5 +1,17 @@
 # 2024 Log
 
+## June
+### Mon 01
+- ~~Finished Newington Video of the Year~~
+- Complete 1 run of TodoApp
+- Start Learn localStorage by Building a Todo App
+
+## End of April
+
+### Fri 30
+- Complete 1 run of TodoApp
+- Quick audio fix for Newington video
+- Start Learn localStorage by Building a Todo App
 ### Fri 30
 - Complete 1 run of TodoApp
 - Quick audio fix for Newington video
