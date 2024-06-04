@@ -1,7 +1,11 @@
 # 2024 Log
 
 ## June
-### Mon 01
+### Tues 04
+- Complete 1 run of TodoApp
+- Start Learn localStorage by Building a Todo App
+
+### Mon 003
 - ~~Finished Newington Video for the Year~~
 - Complete 1 run of TodoApp
 - Start Learn localStorage by Building a Todo App
