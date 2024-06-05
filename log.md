@@ -1,6 +1,10 @@
 # 2024 Log
 
 ## June
+### wed 05
+- Complete 1 run of TodoApp
+- Start Learn localStorage by Building a Todo App
+
 ### Tues 04
 - Complete 1 run of TodoApp
 - Start Learn localStorage by Building a Todo App
