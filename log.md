@@ -1,6 +1,12 @@
 # 2024 Log
-
 ## June
+
+### Thur 05
+- Received M2 Air back from repair
+- Getting ready for Hobart Trip
+- Complete 1 run of TodoApp
+- Start Learn localStorage by Building a Todo App
+
 ### wed 05
 - Complete 1 run of TodoApp
 - Start Learn localStorage by Building a Todo App
