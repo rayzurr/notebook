@@ -2,6 +2,10 @@
 ## June
 
 ### Fri 07
+-  Visit Mona
+- Hike Mt Wellington
+
+### Fri 07
 - Board Plane
 - Complete 1 run of TodoApp
 - Start Learn localStorage by Building a Todo App
