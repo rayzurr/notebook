@@ -1,7 +1,7 @@
 # 2024 Log
 ## June
 
-### Sun 08
+### Sun 09
 - Arrive home back to work
 - Complete 1 run of TodoApp
 - Start Learn localStorage by Building a Todo App
