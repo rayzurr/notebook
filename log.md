@@ -1,6 +1,11 @@
 # 2024 Log
 ## June
 
+### Sun 08
+- Arrive home back to work
+- Complete 1 run of TodoApp
+- Start Learn localStorage by Building a Todo App
+
 ### Fri 07
 -  Visit Mona
 - Hike Mt Wellington
