@@ -1,6 +1,9 @@
 # 2024 Log
 ## June
 
+### Thur 13
+- Rebuild habit of coding
+
 ### Tue 11
 - Started a test of Todo App
 - Start Learn localStorage by Building a Todo App
