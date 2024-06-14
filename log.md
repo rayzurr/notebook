@@ -1,6 +1,9 @@
 # 2024 Log
 ## June
 
+### Fri 14
+- Completed 89% Start Learn localStorage by Building a Todo App
+
 ### Thur 13
 - Rebuild habit of coding
 
