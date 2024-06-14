@@ -49,6 +49,29 @@ Arrays are denoted using square brackets ([]). Here is an example of a variable 
 
 ### Learn Modern JavaScript Methods by Building Football Team Cards
 ### Learn localStorage by Building a Todo App
+  - Step 48 (The order of = variables)
+    - [x + y]  = 8
+    - [x + y]  = 8
+
+  - What is Local Storage
+
+  Incorrect Order (Reasoning):
+
+In the previous order (currentTask.title = titleInput.value;, etc.), we were trying to set the properties of the currentTask object based on unmodified input field values. This might lead to unexpected behavior if the currentTask object already had some values.
+
+Correct Order (Explanation):
+
+The current order (titleInput.value = currentTask.title;, etc.) works because it sets the input field values based on the existing currentTask object properties. This ensures the input fields display the current data of the task:
+
+We first access the property of the currentTask object (e.g., currentTask.title).
+This retrieves the current title, date, or description of the task.
+Then, we assign that retrieved value to the value property of the corresponding input field (e.g., titleInput.value).
+By doing this, we're effectively populating the input fields with the data from the currentTask object, making it ready for editing.
+
+Summary:
+
+The correct order prioritizes displaying the current task information in the input fields.
+The previous order attempted to update the currentTask object with potentially outdated input field values.
 ### Learn Recursion by Building a Decimal to Binary Converter
 ### Build a Roman Numeral Converter ProjectCertification Project
 
