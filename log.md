@@ -1,11 +1,13 @@
 # 2024 Log
 ## June
 
+### Tue 18
+- Started https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter
 
 
 ### Mon 17
 - Started https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter
-- 
+
 
 ### Sat 15
 - Rest
