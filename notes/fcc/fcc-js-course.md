@@ -49,11 +49,22 @@ Arrays are denoted using square brackets ([]). Here is an example of a variable 
 
 ### Learn Modern JavaScript Methods by Building Football Team Cards
 ### Learn localStorage by Building a Todo App
+
+* **Put stuff in the box:** `localStorage.setItem("key", "value")`  
+  - Give it a label (`key`) and the thing to remember (`value`).
+
+* **Find stuff in the box:** `localStorage.getItem("key")`  
+  - Look up by label, returns what's inside (as text).
+
+* **Take stuff out of the box:** `localStorage.removeItem("key")`  
+  - Find by label and toss it away.
+
+**Remember:** Everything in the box is text, convert it back if needed! 
+
+
   - Step 48 (The order of = variables)
     - [x + y]  = 8
     - [x + y]  = 8
-
-  - What is Local Storage
 
   Incorrect Order (Reasoning):
 
@@ -72,6 +83,21 @@ Summary:
 
 The correct order prioritizes displaying the current task information in the input fields.
 The previous order attempted to update the currentTask object with potentially outdated input field values.
+
+Incorrect Order (Mistake):
+
+You try to copy from your scratch paper to your answer sheet without checking what's already written there (set currentTask properties based on unmodified input values).
+If there were any mistakes on your scratch paper (outdated input field values), you'd copy those mistakes to your answer sheet (unexpected behavior if currentTask already has values).
+Correct Order (Solution):
+
+You first look at your answer sheet (get value from currentTask object).
+See what's already written there (retrieve current title, date, or description).
+Then you copy the correct information from your scratch paper to the corresponding blank on your answer sheet (set input field values based on currentTask properties).
+This ensures your answer sheet has the latest information (displays current data of the task).
+Summary:
+
+The correct order makes sure you copy the most recent answers (current task information) to your clean sheet (input fields), avoiding any mistakes from outdated information.
+
 ### Learn Recursion by Building a Decimal to Binary Converter
 ### Build a Roman Numeral Converter ProjectCertification Project
 

@@ -1,6 +1,9 @@
 # 2024 Log
 ## June
 
+### Thu 20
+- Write notes on Start Learn localStorage by Building a Todo App
+
 ### Tue 18
 - Started https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter
 
