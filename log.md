@@ -6,6 +6,7 @@
 - Testing out M2 Macbook Air 15inch
 - Started Arrays FFC (as a refresher)
 - Complete one run through of React App
+
 ### Thu 20
 - Write notes on Start Learn localStorage by Building a Todo App
 - Started Decimal to Binary Converter
