@@ -111,7 +111,35 @@ The correct order makes sure you copy the most recent answers (current task info
 
 ## Chapter 3
 
-### Learn Basic OOP by Building a Shopping Cart, Not started
+### Learn Basic OOP by Building a Shopping Cart
+ ![alt text](fcc-js-2024-images/3-1-ShoppingCart.png)
+
+ `this` keyword
+
+ The this keyword is necessary for this.items.push(product) because it refers to the current object instance. Here's a breakdown:
+
+this keyword: Inside a method of a class, this refers to the current object instance. In this case, the addItem method is a method within the ShoppingCart class.
+
+this.items: This refers to the items property defined within the ShoppingCart class constructor. This property holds an array to store the items in the shopping cart.
+
+.push(product): The push method is used on arrays to add elements to the end. Here, we are adding the product (found using find) to the items array.
+
+Without this, the code would try to add the product to a variable named items that might not exist in the current scope. Using this.items ensures the product is added to the intended array, which is the items property of the current ShoppingCart object.
+
+Here's an analogy: Imagine ShoppingCart as a shopping cart object. The items property is like the basket of the cart where you store items. The this keyword helps identify the specific cart's basket (the current object instance's items property) where you want to add the product.
+
+
+Absolutely! Here's the cliff note version for your notes:
+
+**`this` in ShoppingCart:**
+
+* `this` refers to the current shopping cart object.
+* `.items` accesses the shopping cart's item list.
+* **Without `this`:** Trying to add product to a non-existent variable.
+* **With `this.items`:** Adding product to the correct item list of the current cart.
+* Think of `this` as identifying the specific cart (object) you're working with.
+
+ s
 ### Learn Intermediate OOP by Building a Platformer Game, Not started
 ### Learn Intermediate Algorithmic Thinking by Building a Dice Game
 ### Build a Cash Register ProjectCertification Project
