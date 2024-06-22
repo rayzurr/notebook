@@ -5,19 +5,15 @@
 ### Sat 22
 - ~~Complete one run through of React App~~
 - Updated TodoApp notes
--
+- Start next Todo Project
+- Complete another speedrun of react app
 
 ### Fri 21
 - Testing out M2 Macbook Air 15inch
 - Started Arrays FFC (as a refresher)
 - Complete one run through of React App
-
-### Fri 21
-- Testing out M2 Macbook Air 15inch
-- Started Arrays FFC (as a refresher)
-- ~Complete one run through of React App~
   
-##>># Thu 20
+### Thu 20
 - Write notes on Start Learn localStorage by Building a Todo App
 - Started Decimal to Binary Converter
  
