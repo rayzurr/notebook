@@ -2,6 +2,11 @@
 ## June
 
 
+### Tues 24
+- Completed Javascript Fcc
+- Started Nasa React App
+- Complete another speedrun of react app
+
 ### Sat 22
 - ~~Complete one run through of React App~~
 - Updated TodoApp notes
