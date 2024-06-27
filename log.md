@@ -2,6 +2,12 @@
 ## June
 
 
+### Thu 24
+- Sick
+- Looks for jobs
+- Work 1 hour on react
+- Slowly get through any easy FFC
+
 ### Tues 24
 - Completed Javascript Fcc
 - Started Nasa React App
