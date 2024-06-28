@@ -2,7 +2,10 @@
 ## June
 
 
-### Thu 25
+### Fri 28
+- Work 1 hour on react
+
+### Thu 27
 - Sick
 - Looks for jobs
 - Work 1 hour on react
