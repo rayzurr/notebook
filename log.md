@@ -2,6 +2,10 @@
 ## June
 
 
+### Sun 30
+- Completed another run of Todo App (help at handle Edit & localStorage)
+
+
 ### Fri 28
 - Work 1 hour on react
 
