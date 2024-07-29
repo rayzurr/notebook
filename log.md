@@ -5,6 +5,7 @@
 ### Mon 29
 
 - Back into routine
+- Deleted origin/main
 
 
 ## June
