@@ -139,7 +139,11 @@ Absolutely! Here's the cliff note version for your notes:
 * **With `this.items`:** Adding product to the correct item list of the current cart.
 * Think of `this` as identifying the specific cart (object) you're working with.
 
+<<<<<<< HEAD
  s
+=======
+ sw
+>>>>>>> 9a6815d (added new files)
 ### Learn Intermediate OOP by Building a Platformer Game, Not started
 ### Learn Intermediate Algorithmic Thinking by Building a Dice Game
 ### Build a Cash Register ProjectCertification Project

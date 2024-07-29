@@ -1,4 +1,12 @@
 # 2024 Log
+
+## July
+
+### Mon 29
+
+- Back into routine
+
+
 ## June
 
 
