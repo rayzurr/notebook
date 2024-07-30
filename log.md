@@ -2,6 +2,12 @@
 
 ## July
 
+### Tue 30 April
+
+- Started Regex chapter
+- Continue NASA App
+
+
 ### Mon 29
 
 - Back into routine
