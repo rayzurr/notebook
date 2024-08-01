@@ -1,5 +1,13 @@
 # 2024 Log
 
+## August
+
+## Thu 01 Aug
+
+- Continue React NASA App
+- ~~20mins of FreeCodeCamp~~
+- ~~Completed regex chapter~~
+
 ## July
 
 ### Tue 30 April
