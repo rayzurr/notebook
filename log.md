@@ -2,6 +2,10 @@
 
 ## August
 
+## Thu 02 
+
+- Start Palindrome Checker
+
 ## Thu 01 Aug
 
 - Continue React NASA App
