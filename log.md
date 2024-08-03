@@ -2,7 +2,11 @@
 
 ## August
 
-## Thu 02 
+## Sat 03
+
+- Rest day
+
+## Fri  02 
 
 - Start Palindrome Checker
 
