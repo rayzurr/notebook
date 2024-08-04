@@ -6,12 +6,18 @@ Copy & Paste
 
 ## August
 
+## Mon 05
+- The Daily Highlight: Excel other jobs
+- Motivation : /10
+- Energy : /10
+
 ## Sun 04
 
 - The Daily Highlight: Rest
-- Productive : 2/10
 - Motivation : 8/10
 - Energy : 8/10
+
+- Completed Palindrome Checker JS
 
 ## Sat 03
 
