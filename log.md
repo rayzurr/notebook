@@ -1,6 +1,17 @@
 # 2024 Log
+Copy & Paste
+- The Daily Highlight: 
+- Motivation : /10
+- Energy : /10
 
 ## August
+
+## Sun 04
+
+- The Daily Highlight: Rest
+- Productive : 2/10
+- Motivation : 8/10
+- Energy : 8/10
 
 ## Sat 03
 
