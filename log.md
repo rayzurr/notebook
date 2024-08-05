@@ -11,6 +11,8 @@ Copy & Paste
 - Motivation : /10
 - Energy : /10
 
+* Comment & Document
+
 ## Sun 04
 
 - The Daily Highlight: Rest
