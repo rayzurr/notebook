@@ -6,6 +6,15 @@ Copy & Paste
 
 ## August
 
+## Tues 06
+- The Daily Highlight: Start a Roman Numeral Convert
+- Motivation : /10
+- Energy : /10
+
+* Comment (Teach someone) & Document (read me file)
+
+
+
 ## Mon 05
 - The Daily Highlight: Complete 20 steps of Decimal Binary Calculator
 - Motivation : /10
