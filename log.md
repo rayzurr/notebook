@@ -7,7 +7,7 @@ Copy & Paste
 ## August
 
 ## Mon 05
-- The Daily Highlight: Excel other jobs
+- The Daily Highlight: Complete 20 steps of Decimal Binary Calculator
 - Motivation : /10
 - Energy : /10
 
