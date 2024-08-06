@@ -6,6 +6,13 @@ Copy & Paste
 
 ## August
 
+## Wed 07
+
+- The Daily Highlight: Finish Regex Chapter
+- Motivation : 8/10
+- Energy : 8/10
+- Sleep: Good
+
 ## Tues 06
 - The Daily Highlight: Start a Roman Numeral Convert
 - Motivation : /10
