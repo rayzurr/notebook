@@ -1,20 +1,44 @@
 # 2024 Log
 Copy & Paste
-- The Daily Highlight: 
-- Motivation : /10
-- Energy : /10
+
+The Daily Highlight: 
+Motivation : /10
+Energy : /10
+Sleep : 
+
+
 
 ## August
 
+## Fri 09 
+The Daily Highlight: Complete Statisitics
+Motivation : 9/10
+Energy : /10
+Sleep : 6/10
+
+## Thu 08
+
+The Daily Highlight: ~~Continue & Finish 29 Steps of Statistics~~
+Motivation : 8/10
+Energy : 8/10
+Sleep: Good
+
+- Finish Statistics
+
+
 ## Wed 07
 
-- The Daily Highlight: Finish Regex Chapter
-- Motivation : 8/10
-- Energy : 8/10
-- Sleep: Good
+The Daily Highlight: ~~Finish Regex Chapter~~
+Motivation : 8/10
+Energy : 8/10
+Sleep: Good
+
+- Completed Sorted FFC class
+- Moving onto the statics project class
+- Powering through this one
 
 ## Tues 06
-- The Daily Highlight: Start a Roman Numeral Convert
+- The Daily Highlight: ~~Start a Roman Numeral Convert~~
 - Motivation : /10
 - Energy : /10
 
