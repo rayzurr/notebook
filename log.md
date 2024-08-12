@@ -9,12 +9,14 @@ Sleep :
 ## August
 
 ## Mon 12 
-The Daily Highlight: Complete Learning functional programming by building a spreadsheet or Step 29 -> 79 
+The Daily Highlight: 
+* Complete Learning functional programming by building a spreadsheet or ~~Step 29 -> 79~~ 
 
 Motivation : 8/10
 Energy : 6/10
 Sleep : 5/10
 
+- Up to step 83
 
 - Must revisit this CellTable Chapter
 ## Fri 09 
