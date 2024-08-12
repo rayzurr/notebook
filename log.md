@@ -6,9 +6,13 @@ Motivation : /10
 Energy : /10
 Sleep : 
 
-
-
 ## August
+
+## Mon 12 
+The Daily Highlight: Complete the Cell Table FCC or 50 steps
+Motivation : 8/10
+Energy : 6/10
+Sleep : 5/10
 
 ## Fri 09 
 The Daily Highlight: Complete Statisitics
