@@ -9,11 +9,14 @@ Sleep :
 ## August
 
 ## Mon 12 
-The Daily Highlight: Complete the Cell Table FCC or 50 steps
+The Daily Highlight: Complete Learning functional programming by building a spreadsheet or Step 29 -> 79 
+
 Motivation : 8/10
 Energy : 6/10
 Sleep : 5/10
 
+
+- Must revisit this CellTable Chapter
 ## Fri 09 
 The Daily Highlight: Complete Statisitics
 Motivation : 9/10
