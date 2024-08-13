@@ -2,13 +2,21 @@
 Copy & Paste
 
 The Daily Highlight: 
-Motivation : /10
-Energy : /10
-Sleep : 
+    - [x] 
+
+Motivation : /10 Energy : /10 Sleep : /10
 
 ## August
 
-## Mon 12 
+### Tue 13
+
+The Daily Highlight: 
+    - [] Complete 10 Steps 
+
+Motivation : 4/10 Energy : 4/10 Sleep : 8/10
+
+* Didn't go to library, or train. Focus was poor
+### Mon 12 
 The Daily Highlight: 
 * Complete Learning functional programming by building a spreadsheet or ~~Step 29 -> 79~~ 
 
@@ -17,13 +25,13 @@ Motivation : 8/10 Energy : 6/10 Sleep : 5/10
 - Continuing past step 83
 
 - Must revisit this CellTable Chapter
-## Fri 09 
+### Fri 09 
 The Daily Highlight: Complete Statisitics
 Motivation : 9/10
 Energy : /10
 Sleep : 6/10
 
-## Thu 08
+### Thu 08
 
 The Daily Highlight: ~~Continue & Finish 29 Steps of Statistics~~
 Motivation : 8/10
@@ -33,7 +41,7 @@ Sleep: Good
 - Finish Statistics
 
 
-## Wed 07
+### Wed 07
 
 The Daily Highlight: ~~Finish Regex Chapter~~
 Motivation : 8/10
@@ -44,7 +52,7 @@ Sleep: Good
 - Moving onto the statics project class
 - Powering through this one
 
-## Tues 06
+### Tues 06
 - The Daily Highlight: ~~Start a Roman Numeral Convert~~
 - Motivation : /10
 - Energy : /10
@@ -53,14 +61,14 @@ Sleep: Good
 
 
 
-## Mon 05
+### Mon 05
 - The Daily Highlight: Complete 20 steps of Decimal Binary Calculator
 - Motivation : /10
 - Energy : /10
 
 * Comment & Document
 
-## Sun 04
+### Sun 04
 
 - The Daily Highlight: Rest
 - Motivation : 8/10
@@ -68,21 +76,21 @@ Sleep: Good
 
 - Completed Palindrome Checker JS
 
-## Sat 03
+### Sat 03
 
 - Rest day
 
-## Fri  02 
+### Fri  02 
 
 - Start Palindrome Checker
 
-## Thu 01 Aug
+### Thu 01 Aug
 
 - Continue React NASA App
 - ~~20mins of FreeCodeCamp~~
 - ~~Completed regex chapter~~
 
-## July
+### July
 
 ### Tue 30 April
 
