@@ -7,6 +7,14 @@ The Daily Highlight:
 Motivation : /10 Energy : /10 Sleep : /10
 
 ## August
+The Daily Highlight: 
+    - [x] Procastinate
+
+Motivation : 7/10 Energy : 7/10 Sleep : 8/10
+
+
+### Thu 14
+
 
 ### Tue 13
 
