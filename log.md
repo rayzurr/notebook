@@ -7,14 +7,22 @@ The Daily Highlight:
 Motivation : /10 Energy : /10 Sleep : /10
 
 ## August
+
+
+
+### Fri 16
 The Daily Highlight: 
-    - [x] Procastinate
+    - [] Finish off FFC Learning functional programming by building a spreadsheet or
+
+Motivation : 7/10 Energy : 7/10 Sleep : 6/10
+
+### Thu 15
+The Daily Highlight: 
+    - [] Finish off FFC Learning functional programming by building a spreadsheet or
 
 Motivation : 7/10 Energy : 7/10 Sleep : 8/10
 
-
-### Thu 14
-
+* Procasinated
 
 ### Tue 13
 
