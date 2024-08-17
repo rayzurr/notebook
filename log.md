@@ -10,6 +10,22 @@ Motivation : /10 Energy : /10 Sleep : /10
 
 
 
+### Sun 18
+The Daily Highlight: 
+    - [] Finish off FFC Learning functional programming by building a spreadsheet or
+
+Motivation : 8/10 
+Energy : 8/10 
+Sleep : 8/10
+
+### Sat 17
+The Daily Highlight: 
+    - Rest day
+
+Motivation : 8/10 
+Energy : 8/10 
+Sleep : 8/10
+
 ### Fri 16
 The Daily Highlight: 
     - [] Finish off FFC Learning functional programming by building a spreadsheet or
