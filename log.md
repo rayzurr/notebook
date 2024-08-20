@@ -3,12 +3,28 @@ Copy & Paste
 
 The Daily Highlight: 
     - [x] 
-
 Motivation : /10 Energy : /10 Sleep : /10
 
 ## August
 
 
+
+### Tue 20
+The Daily Highlight: 
+    - [] Finish off FFC Learning functional programming by building a spreadsheet or
+
+Motivation : 6/10 
+Energy : 7/10 
+Sleep : 9/10
+
+
+### Mon 19
+The Daily Highlight: 
+    - [] Finish off FFC Learning functional programming by building a spreadsheet or
+
+Motivation : 8/10 
+Energy : 8/10 
+Sleep : 8/10
 
 ### Sun 18
 The Daily Highlight: 
