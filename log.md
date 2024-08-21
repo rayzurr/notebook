@@ -1,22 +1,55 @@
 # 2024 Log
-Copy & Paste
-
 The Daily Highlight: 
-    - [x] 
-Motivation : /10 Energy : /10 Sleep : /10
+    - [] Attempt 
+    - [] Continue 
+
+Todo: 
+    - [] Attempt
+
+Motivation : /10 
+Energy : /10 
+Sleep : /10
+
 
 ## August
 
 
 
-### Tue 20
+### Wed 21
 The Daily Highlight: 
-    - [] Finish off FFC Learning functional programming by building a spreadsheet or
+    - [x] Attempt one array question
+    - [] Continue SmolJames road map
+
+Todo
+    - [] Attempt Telephone convert project
 
 Motivation : 6/10 
 Energy : 7/10 
 Sleep : 9/10
 
+
+### Tue 20
+The Daily Highlight: 
+    - [x] Finish off FFC Learning functional programming by building a spreadsheet or
+    - [] Continue SmolJames road map
+    - [] ?? Attempt Telephone convert project
+
+Motivation : 6/10 
+Energy : 7/10 
+Sleep : 9/10
+
+- Time to go back into the Road Map
+### Tue 20
+The Daily Highlight: 
+    - [x] Finish off FFC Learning functional programming by building a spreadsheet or
+    - [] Continue SmolJames road map
+    - [] ?? Attempt Telephone convert project
+
+Motivation : 6/10 
+Energy : 7/10 
+Sleep : 9/10
+
+- Time to go back into the Road Map
 
 ### Mon 19
 The Daily Highlight: 
