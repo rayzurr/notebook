@@ -15,6 +15,34 @@ Sleep : /10
 
 
 
+### Mon 26
+The Daily Highlight: 
+    - [] Attempt Telephone convert project
+    - [] Attempt one array question
+Todo
+
+Motivation : 8/10 
+Energy : 9/10 
+Sleep : 9/10
+
+* Projects ONLY
+* Mikaela's birthday weekend
+
+
+### Fri 23
+The Daily Highlight: 
+    - [] Continue SmolJames road map
+Todo
+    - [] Attempt Telephone convert project
+    - [] Attempt one array question
+
+Motivation : 6/10 
+Energy : 7/10 
+Sleep : 9/10
+
+* No neogitation with yourself
+* Stop over thinking
+
 ### Wed 21
 The Daily Highlight: 
     - [x] Attempt one array question
