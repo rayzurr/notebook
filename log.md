@@ -1,19 +1,12 @@
 # 2024 Log
-The Daily Highlight: 
-    - [] Attempt 
-    - [] Continue 
 
-Todo: 
-    - [] Attempt
-
-Motivation : /10 
-Energy : /10 
-Sleep : /10
-
-
+Quote of month - Projects Only
 ## August
 
-
+### Wed 28
+The Daily Highlight: 
+    - [] Attempt Telephone convert project
+    - [] Attempt one array question
 
 ### Mon 26
 The Daily Highlight: 
