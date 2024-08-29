@@ -3,10 +3,20 @@
 Quote of month - Projects Only
 ## August
 
+### Fri 28
+The Daily Highlight: 
+    - [] Attempt Telephone convert project
+    - [] Attempt one array question
+
+Todo
+
 ### Wed 28
 The Daily Highlight: 
     - [] Attempt Telephone convert project
     - [] Attempt one array question
+
+Todo
+
 
 ### Mon 26
 The Daily Highlight: 
