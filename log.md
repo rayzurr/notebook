@@ -1,14 +1,31 @@
 # 2024 Log
 
-Quote of month - Projects Only
+Quote of month
+"Learning without reflection is a waste of time, but reflection without action is a dream." - Confucius
+
+## September
+
+### Tue  3 
+The Daily Highlight: 
+    - [] Replicate website
+    
+- Terrible sleep. Slept at 2am woke up 7:30am, I can't think straight. Physically I am fine.
+
+## August
+
+
+### Mon 2 
+The Daily Highlight: 
+    - [] Replicate website
+    
 ## August
 
 ### Fri 28
 The Daily Highlight: 
     - [] Attempt Telephone convert project
     - [] Attempt one array question
+    - []
 
-Todo
 
 ### Wed 28
 The Daily Highlight: 
