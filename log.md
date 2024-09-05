@@ -3,7 +3,26 @@
 Quote of month
 "Learning without reflection is a waste of time, but reflection without action is a dream." - Confucius
 
+What I did today
+
 ## September
+
+### Thu  5 
+The Daily Highlight: 
+    - [] Replicate website
+    
+- Find a better project planner re think format log
+
+What I will do today
+What I did yesterday
+
+
+### Tue  3 
+The Daily Highlight: 
+    - [] Replicate website
+    
+- 
+
 
 ### Tue  3 
 The Daily Highlight: 
