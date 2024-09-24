@@ -13,6 +13,14 @@ https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-lea
 
 I am currently stuck between 'The Cliff of Confusion' and 'The Desert of Despair'. My fundament knowledge of Javascript, Git and other tools are competent however when I sit down and try to code myself I get overwhelmed and this ends up leading to demotivation.
 
+[How to Take Notes in Class: The 5 Best Methods - College Info Geek] (https://www.youtube.com/watch?v=AffuwyJZTQQ&t=337s)
+
+Outline Method - 0:32
+Cornell Method - 1:34
+Mind Map Method - 2:28
+Flow Method - 3:24
+Write On The Sides Method - 4:29
+
 ### Mon  5 
 The Daily Highlight: 
     - [] Replicate website
