@@ -7,6 +7,31 @@ What I did today
 
 ## September
 
+### Tues 24
+
+https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
+
+I am currently stuck between 'The Cliff of Confusion' and 'The Desert of Despair'. My fundament knowledge of Javascript, Git and other tools are competent however when I sit down and try to code myself I get overwhelmed and this ends up leading to demotivation.
+
+### Mon  5 
+The Daily Highlight: 
+    - [] Replicate website
+    
+- Find a better project planner re think format log
+
+What I will do today
+What I did yesterday
+
+
+### Mon  5 
+The Daily Highlight: 
+    - [] Replicate website
+    
+- Find a better project planner re think format log
+
+What I will do today
+What I did yesterday
+
 ### Thu  5 
 The Daily Highlight: 
     - [] Replicate website
